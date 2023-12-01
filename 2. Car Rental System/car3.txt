@@ -1,0 +1,5 @@
+Fctory : bmw
+Model  : 2022
+rate   : 4.6
+price  : 15$ perday
+status : avilable

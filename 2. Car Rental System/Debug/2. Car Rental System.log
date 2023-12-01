@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\Projects\Projects\2. Car Rental System\Source.cpp(24,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Projects\Projects\2. Car Rental System\Source.cpp(26,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Projects\Projects\2. Car Rental System\Source.cpp(26,118): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Projects\Projects\2. Car Rental System\Source.cpp(26,177): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Projects\Projects\2. Car Rental System\Source.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\Projects\Projects\2. Car Rental System\Source.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\Projects\Projects\2. Car Rental System\Source.cpp(183,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\Projects\Projects\2. Car Rental System\Source.cpp(195,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\Projects\Projects\2. Car Rental System\Source.cpp(264,20): warning C4018: '<': signed/unsigned mismatch
+  2. Car Rental System.vcxproj -> C:\Users\user\Desktop\Projects\Projects\2. Car Rental System\Debug\2. Car Rental System.exe

@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Login Project Final.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+  Login Project Final.vcxproj -> C:\Users\user\Desktop\Projects\Problems\Week 7\Login Project Final\Debug\Login Project semi Final.exe

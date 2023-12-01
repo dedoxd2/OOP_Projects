@@ -1,0 +1,5 @@
+Fctory : honda
+Model  : 2019
+rate   : 4.3
+price  : 9$ perday
+status : avilable

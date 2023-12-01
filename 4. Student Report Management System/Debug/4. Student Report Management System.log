@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\Projects\Projects\4. Student Report Management System\Source.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\Projects\Projects\4. Student Report Management System\Source.cpp(151,11): warning C4129: ' ': unrecognized character escape sequence
+  student.cpp
+  Generating Code...
+  4. Student Report Management System.vcxproj -> C:\Users\user\Desktop\Projects\Projects\4. Student Report Management System\Debug\4. Student Report Management System.exe

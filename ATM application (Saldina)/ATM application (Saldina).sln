@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ATM application (Saldina)", "ATM application (Saldina).vcxproj", "{FE3EFA59-B4DC-4D93-B330-C5426678B0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE3EFA59-B4DC-4D93-B330-C5426678B0AA}.Debug|x64.ActiveCfg = Debug|x64
+		{FE3EFA59-B4DC-4D93-B330-C5426678B0AA}.Debug|x64.Build.0 = Debug|x64
+		{FE3EFA59-B4DC-4D93-B330-C5426678B0AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE3EFA59-B4DC-4D93-B330-C5426678B0AA}.Debug|x86.Build.0 = Debug|Win32
+		{FE3EFA59-B4DC-4D93-B330-C5426678B0AA}.Release|x64.ActiveCfg = Release|x64
+		{FE3EFA59-B4DC-4D93-B330-C5426678B0AA}.Release|x64.Build.0 = Release|x64
+		{FE3EFA59-B4DC-4D93-B330-C5426678B0AA}.Release|x86.ActiveCfg = Release|Win32
+		{FE3EFA59-B4DC-4D93-B330-C5426678B0AA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4533F615-DDBD-4902-BAA6-959494452D98}
+	EndGlobalSection
+EndGlobal
